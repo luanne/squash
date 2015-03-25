@@ -6,4 +6,8 @@ public class File1 {
         System.out.println("File 1 created");
         System.out.println("Modify 1");
     }
+
+    private void modify2() {
+
+    }
 }
